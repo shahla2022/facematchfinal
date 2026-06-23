@@ -1,0 +1,15 @@
+{
+
+  "builds": [
+    {
+      "src": "api/facematching.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "api/facematching.py"
+    }
+  ]
+}
