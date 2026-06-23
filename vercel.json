@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "api/facematching.py",
-      "use": "@vercel/python310"
+      "use": "@vercel/python"
     }
   ],
   "routes": [
