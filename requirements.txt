@@ -33,7 +33,7 @@ decorator==5.2.1
 deepface==0.0.93
 defusedxml==0.7.1
 distlib==0.4.0
-dlib @ file:///I:/myid/phase1_final/newfacedetect/phase2_facematch/dlib-19.22.99-cp310-cp310-win_amd64.whl
+dlib
 easydict==1.13
 exceptiongroup==1.3.0
 faiss-cpu==1.10.0
@@ -62,7 +62,7 @@ humanfriendly==10.0
 idna==3.10
 imageio==2.37.0
 imageio-ffmpeg==0.6.0
-insightface @ file:///I:/myid/phase1_final/newfacedetect/phase2_facematch/insightface-0.7.3-cp310-cp310-win_amd64.whl
+insightface
 itsdangerous==2.2.0
 jax==0.5.2
 jaxlib==0.5.1
